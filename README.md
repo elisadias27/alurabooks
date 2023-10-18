@@ -1,2 +1,2 @@
 # alurabooks
-Projeto desenvolvido durante o curso de responsividade da Alura.
+Projeto de uma e-commerce sem fins comerciais desenvolvido utilizando HTML e CSS.
